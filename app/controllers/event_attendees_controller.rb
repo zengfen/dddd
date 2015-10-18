@@ -55,3 +55,8 @@ class EventAttendeesController < ApplicationController
 	end
 
 end
+
+
+
+
+
